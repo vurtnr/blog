@@ -1,0 +1,10 @@
+{
+  "type": "postgres",
+  "host": "localhost",
+  "port": 4352,
+  "username": "root",
+  "password": "root",
+  "database": "blog",
+  "synchronize": true,
+  "logging": true
+}
